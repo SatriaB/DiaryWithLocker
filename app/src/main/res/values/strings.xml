@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DiaryWithLocker</string>
+    <string name="title_activity_diary_list">DiaryList</string>
+    <string name="title_activity_locker_setting">LockerSetting</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
